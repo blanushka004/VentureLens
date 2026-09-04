@@ -6,4 +6,5 @@ __pycache__/
 data/processed/
 
 .streamlit/secrets.toml
-Add-Content .gitignore "*.dump"
+
+*.dump
