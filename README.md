@@ -1,5 +1,13 @@
 # 🚀 VentureLens
 
+## 🌐 Live Demo
+
+🚀 **VentureLens Live App:**  
+https://venturelens-ndwamgacaumbbxxlwtn99m.streamlit.app/
+
+💻 **GitHub Repository:**  
+https://github.com/blanushka004/VentureLens
+
 ### Startup Ecosystem Intelligence & Decision Support Platform
 
 VentureLens is an interactive analytics and decision-support platform for exploring the Indian startup ecosystem.
