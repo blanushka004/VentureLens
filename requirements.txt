@@ -5,7 +5,6 @@ plotly
 sqlalchemy
 psycopg[binary]
 python-dotenv
-prophet
-google-generativeai
 reportlab
 scikit-learn
+google-generativeai
